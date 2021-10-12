@@ -2,7 +2,7 @@ plugins {
     id 'java'
     id("maven-publish")
 }
-
+group 'pohldk'
 version 'v1.0.1'
 
 repositories {
